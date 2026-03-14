@@ -76,3 +76,11 @@ This project demonstrates how simplified thermal-fluid modeling can be used to:
 
 
 
+---
+
+## 📂 Full Project Files
+
+📁 **Download Complete Project Files:**  
+👉 [Open Google Drive Folder](https://drive.google.com/file/d/1Pl7YHGzT3DDGcve_ZRBFvk9z29wDv83W/view?usp=drive_link)
+
+---
